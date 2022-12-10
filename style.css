@@ -1,0 +1,298 @@
+.full{
+	background: #1E1E1E;
+}
+.rect{
+	position: absolute;
+width: 1728px;
+height: 1117px;
+left: 25%;
+top: 250px;
+
+background: #000000;
+}
+.recta{
+	position: absolute;
+	width: 1181px;
+	height: 712px;
+	left: 70px;
+	top: 70px;
+
+background: #000000;
+}
+.sign{
+	position: absolute;
+width: 600px;
+height: 144px;
+left: 202px;
+top: 120px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 1px;
+
+color: #FFFFFF;
+}
+/* fullname */
+.fname{
+	position: absolute;
+width: 1177px;
+height: 0px;
+left: 202px;
+top: 324.01px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.1deg);
+}
+.fnamet{
+	position: absolute;
+width: 112px;
+height: 29px;
+left: 202px;
+top: 278px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+	/* Email */
+.mail{
+	position: absolute;
+width: 1177px;
+height: 0px;
+left: 202px;
+top: 398.01px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.1deg);
+}
+.mailt{position: absolute;
+width: 60px;
+height: 29px;
+left: 202px;
+top: 352px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.pass{
+	/* pass */
+
+
+position: absolute;
+width: 1177px;
+height: 0px;
+left: 202px;
+top: 472.01px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.1deg);
+}
+.passw{
+position: absolute;
+width: 109px;
+height: 29px;
+left: 202px;
+top: 426px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+/*confirm Password */
+color: #FFFFFF;
+}
+.cpass{
+	position: absolute;
+width: 1177px;
+height: 0px;
+left: 202px;
+top: 546.01px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.1deg);
+}
+.cpassw{
+	position: absolute;
+width: 244px;
+height: 29px;
+left: 202px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.dobt{
+	/* DOB */
+
+
+position: absolute;
+width: 244px;
+height: 29px;
+left: 202px;
+top: 574px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.dob{
+	position: absolute;
+width: 1177px;
+height: 0px;
+left: 202px;
+top: 620.01px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.1deg);
+}
+.st{
+	
+box-sizing: border-box;
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 201px;
+top: 651px;
+
+border: 1px solid #FFFFFF;
+border-radius: 1000px;
+}
+.stud{
+	/* Student */
+
+
+position: absolute;
+width: 244px;
+height: 29px;
+left: 229px;
+top: 650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.em{
+	
+box-sizing: border-box;
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 381px;
+top: 651px;
+
+border: 1px solid transparent #FFFFFF;
+border-radius: 1000px;
+}
+.emp{
+	/* Employee */
+
+
+position: absolute;
+width: 244px;
+height: 29px;
+left: 407px;
+top: 650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.ia{
+	box-sizing: border-box;
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 198px;
+top: 709px;
+
+border: 1px solid #FFFFFF;
+}
+.iag{
+	
+position: absolute;
+width: 430px;
+height: 29px;
+left: 232px;
+top: 709px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.btn{
+	position: absolute;
+	width: 226px;
+	height: 58px;
+	left: 198px;
+	top: 808px;
+	
+	background: #FFFFFF;
+}
+.sig{
+	position: absolute;
+width: 81px;
+height: 33px;
+left: 266px;
+top: 820px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
